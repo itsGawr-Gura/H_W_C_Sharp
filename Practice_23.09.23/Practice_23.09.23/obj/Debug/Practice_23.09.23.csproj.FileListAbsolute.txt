@@ -1,0 +1,7 @@
+C:\Users\alesi\OneDrive\Рабочий стол\C#\Practice_23.09.23\Practice_23.09.23\bin\Debug\Practice_23.09.23.exe.config
+C:\Users\alesi\OneDrive\Рабочий стол\C#\Practice_23.09.23\Practice_23.09.23\bin\Debug\Practice_23.09.23.exe
+C:\Users\alesi\OneDrive\Рабочий стол\C#\Practice_23.09.23\Practice_23.09.23\bin\Debug\Practice_23.09.23.pdb
+C:\Users\alesi\OneDrive\Рабочий стол\C#\Practice_23.09.23\Practice_23.09.23\obj\Debug\Practice_23.09.23.csproj.AssemblyReference.cache
+C:\Users\alesi\OneDrive\Рабочий стол\C#\Practice_23.09.23\Practice_23.09.23\obj\Debug\Practice_23.09.23.csproj.CoreCompileInputs.cache
+C:\Users\alesi\OneDrive\Рабочий стол\C#\Practice_23.09.23\Practice_23.09.23\obj\Debug\Practice_23.09.23.exe
+C:\Users\alesi\OneDrive\Рабочий стол\C#\Practice_23.09.23\Practice_23.09.23\obj\Debug\Practice_23.09.23.pdb
