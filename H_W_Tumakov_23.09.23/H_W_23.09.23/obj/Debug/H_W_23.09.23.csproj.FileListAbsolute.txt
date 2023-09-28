@@ -1,0 +1,14 @@
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_23.09.23\H_W_23.09.23\bin\Debug\H_W_23.09.23.exe.config
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_23.09.23\H_W_23.09.23\bin\Debug\H_W_23.09.23.exe
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_23.09.23\H_W_23.09.23\bin\Debug\H_W_23.09.23.pdb
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_23.09.23\H_W_23.09.23\obj\Debug\H_W_23.09.23.csproj.AssemblyReference.cache
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_23.09.23\H_W_23.09.23\obj\Debug\H_W_23.09.23.csproj.CoreCompileInputs.cache
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_23.09.23\H_W_23.09.23\obj\Debug\H_W_23.09.23.exe
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_23.09.23\H_W_23.09.23\obj\Debug\H_W_23.09.23.pdb
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_Tumakov_23.09.23\H_W_23.09.23\bin\Debug\H_W_23.09.23.exe.config
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_Tumakov_23.09.23\H_W_23.09.23\bin\Debug\H_W_23.09.23.exe
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_Tumakov_23.09.23\H_W_23.09.23\bin\Debug\H_W_23.09.23.pdb
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_Tumakov_23.09.23\H_W_23.09.23\obj\Debug\H_W_23.09.23.csproj.AssemblyReference.cache
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_Tumakov_23.09.23\H_W_23.09.23\obj\Debug\H_W_23.09.23.csproj.CoreCompileInputs.cache
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_Tumakov_23.09.23\H_W_23.09.23\obj\Debug\H_W_23.09.23.exe
+C:\Users\alesi\OneDrive\Рабочий стол\C#\H_W_Tumakov_23.09.23\H_W_23.09.23\obj\Debug\H_W_23.09.23.pdb
